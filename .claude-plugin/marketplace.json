@@ -1,0 +1,30 @@
+{
+  "name": "python-code-review",
+  "id": "python-code-review",
+  "owner": {
+    "name": "xiupengrong"
+  },
+  "metadata": {
+    "description": "Python 项目全维度代码审查 — 9 维度深度审查，生成中文审查报告",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "python-code-review",
+      "source": "./",
+      "description": "Python 项目全维度代码审查工具：架构设计、安全性、可读性、健壮性、可扩展性、性能与效率、测试与质量保障、依赖与部署、文档记录",
+      "version": "1.0.0",
+      "author": {
+        "name": "xiupengrong"
+      },
+      "keywords": [
+        "python",
+        "code-review",
+        "security-audit",
+        "code-quality",
+        "chinese"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

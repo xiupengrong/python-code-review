@@ -1,0 +1,22 @@
+{
+  "name": "python-code-review",
+  "description": "Python 项目全维度代码审查工具。覆盖架构设计、安全性、可读性、健壮性、可扩展性、性能与效率、测试与质量保障、依赖与部署、文档记录 9 个关键维度，生成带评分和改进建议的中文审查报告。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiupengrong"
+  },
+  "repository": "https://github.com/xiupengrong/python-code-review",
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "code-review",
+    "security-audit",
+    "code-quality",
+    "architecture",
+    "best-practices",
+    "chinese"
+  ],
+  "skills": [
+    "./skills/python-code-review"
+  ]
+}
