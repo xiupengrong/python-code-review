@@ -5,15 +5,15 @@
     "name": "xiupengrong"
   },
   "metadata": {
-    "description": "Python 项目全维度代码审查 — 9 维度深度审查，生成中文审查报告",
-    "version": "1.0.0"
+    "description": "Python 项目全维度代码审查 — 9 维度深度审查 + 金融安全规范检测，生成中文审查报告",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "python-code-review",
       "source": "./",
-      "description": "Python 项目全维度代码审查工具：架构设计、安全性、可读性、健壮性、可扩展性、性能与效率、测试与质量保障、依赖与部署、文档记录",
-      "version": "1.0.0",
+      "description": "Python 项目全维度代码审查工具：架构设计、安全性、可读性、健壮性、可扩展性、性能与效率、测试与质量保障、依赖与部署、文档记录，内置金融安全合规检测",
+      "version": "1.1.0",
       "author": {
         "name": "xiupengrong"
       },
@@ -22,6 +22,8 @@
         "code-review",
         "security-audit",
         "code-quality",
+        "financial-security",
+        "compliance",
         "chinese"
       ],
       "category": "workflow"
